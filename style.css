@@ -1,7 +1,7 @@
 h1 {
     color: #000000;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 30px;
     text-align: center;
     font-style: italic;
     justify-content: center;
@@ -18,7 +18,7 @@ h1 {
 #btn {
 
     font-weight: bold;
-    font-size: 25px;
+    font-size: 15px;
     text-align: center;
     font-style: italic;
     justify-content: center;
