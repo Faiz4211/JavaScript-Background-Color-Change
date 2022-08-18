@@ -1,0 +1,26 @@
+h1 {
+    color: #000000;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.container {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+#btn {
+
+    font-weight: bold;
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+    justify-content: center;
+    margin-top: 100px;
+}
